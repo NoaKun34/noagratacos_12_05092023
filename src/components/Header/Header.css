@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    width: 1440px;
+    height: 91px;
+    background-color: #020203;
+}
+
+.logo {
+    width: 178px;
+    height: 61px;
+    margin: auto 28px;
+}
+
+.navbar {
+    width: 100%;
+    margin: auto 100px;
+}
+
+.navbarUL {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbarLI {
+    color: white;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.navLink {
+    text-decoration: none;
+    color: white;
+}

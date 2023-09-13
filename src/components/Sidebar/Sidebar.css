@@ -1,0 +1,39 @@
+.sidebar {
+    background-color: #020203;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 117px;
+}
+
+.sidebar_menu {
+    margin: auto;
+    height: 316px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sidebar_menu-item {
+    height: 64px;
+    width: 64px;
+    background-color: white;
+    display: flex;
+    border-radius: 6px;
+}
+
+.menu-img {
+    height: 32px;
+    width: 32px;
+    margin: auto;
+}
+
+.copyright {
+    transform: rotate(270deg);
+    color: white;
+    margin-bottom: 135px;
+    margin-left: -30px;
+    width: 180px;
+    font-size: 12px;
+    font-weight: 500;
+}
