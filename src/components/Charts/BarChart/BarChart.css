@@ -1,0 +1,14 @@
+.barChartContainer {
+    height: 320px;
+}
+
+.customTooltip {
+    background-color: #E60000;
+    color: white;
+    font-size: 14px;
+    width: 60px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

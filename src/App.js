@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
+import UserInfo from './components/UserInfo';
 import './App.css';
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
       <Header />
       <div className='content'>
         <Sidebar />
-        <div className='main'></div>
+        <UserInfo />
       </div>
     </div>
   );

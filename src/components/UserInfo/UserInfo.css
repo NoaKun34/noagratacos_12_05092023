@@ -1,0 +1,53 @@
+.userInfo {
+    width: 1323px;
+    height: 933px;
+    background-color: #FFFFFF;
+}
+
+.userInfoName {
+    text-align: left;
+    margin: 68px 0 0 107px;
+    font-size: 48px;
+    font-style: normal;
+    line-height: 24px;
+}
+
+.userInfoNameVar {
+    color: #ff0101;
+    font-size: 48px;
+    font-style: normal;
+    line-height: 24px;
+}
+
+.userInfoText {
+    text-align: left;
+    margin: 41px 0 0 107px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dataContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 77px;
+}
+
+.error {
+    margin: auto auto;
+    font-size: 26px;
+    color: #ff0101;
+    font-weight: 700;
+}
+
+.loading {
+    margin: auto auto;
+    font-size: 26px;
+    color: blue;
+    font-weight: 700;
+}

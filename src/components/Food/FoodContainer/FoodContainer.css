@@ -1,0 +1,45 @@
+.foodContainer {
+    width: 258px;
+    height: 613px;
+    margin-right: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.foodElementContainer {
+    width: 258px;
+    height: 124px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    background-color: #FBFBFB;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.02);
+}
+
+.foodIconElement {
+    width: 60px;
+    height: 60px;
+    margin-left: 32px;
+    margin-top: 32px;
+}
+
+.foodTextContainer {
+    margin-left: 24px;
+    margin-top: 48px;
+    line-height: 10px;
+}
+
+.foodValue {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    text-align: left;
+}
+
+.foodType {
+    font-size: 14px;
+    font-weight: 500;
+    color: #74798C;
+    text-align: left;
+}

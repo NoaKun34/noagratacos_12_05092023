@@ -1,0 +1,14 @@
+.lineText {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.tooltipDataSession {
+    color: black;
+    background-color: #FFFFFF;
+    padding: 10px;
+}

@@ -7,8 +7,6 @@
   flex-direction: row;
 }
 
-.main {
-  width: 1323px;
-  height: 933px;
-  background-color: blue;
+body {
+  font-family: 'Roboto';
 }
